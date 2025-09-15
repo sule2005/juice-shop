@@ -1,0 +1,2 @@
+syft dir:/path/to/juice-shop -o spdx-yaml > security.yml
+
