@@ -6,8 +6,6 @@ contents:
   packages:
     - tzdata
     - wolfi-baselayout
-    - ca-certificates-bundle
-    - certificates-bundle
     - nginx
     - nginx-package-config
     - glibc
